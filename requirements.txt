@@ -1,0 +1,7 @@
+Flask-MQTT
+Flask
+flask-socketio
+flask-bootstrap
+eventlet
+crccheck
+requests
